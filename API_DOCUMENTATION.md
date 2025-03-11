@@ -59,7 +59,7 @@ Generate images using the PixelDojo AI models.
   "id": "gen_abc123xyz456",
   "created": 1678901234,
   "images": [
-    "https://pixeldojo.ai/generated/abc123xyz456_1.png"
+    "https://temp.pixeldojo.ai/generated/abc123xyz456_1.png"
   ],
   "model": "flux-pro",
   "prompt": "A beautiful sunset over a mountain landscape, highly detailed"
@@ -89,9 +89,8 @@ The following models are available for image generation:
 
 ## Rate Limits
 
-- Free tier: 10 requests per minute
-- Pro tier: 60 requests per minute
-- Enterprise tier: Custom limits
+60 requests per minute
+
 
 ## Image Retention
 
